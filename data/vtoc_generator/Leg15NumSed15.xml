@@ -1,0 +1,440 @@
+<BGTDOC>
+    <WEBTV versione="1.1">
+        <Proprieta>
+            <Protocollo idTesto="" legislatura="15" />
+            <Seduta data="11/07/2006" numero="15" />
+        </Proprieta>
+        <InizioSeduta id="" videoOffset="00:00:00" />
+        <Discussione id="" inIndice="Presidenza del presidente MARINI" videoOffset="00:00:13">
+            <Proprieta>
+                <Titolo>Presidenza del presidente MARINI</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:00:13" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="00:00:21">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="00:00:21" />
+        </Discussione>
+        <Discussione id="" inIndice="Sui lavori del Senato" videoOffset="00:01:45">
+            <Proprieta>
+                <Titolo>Sui lavori del Senato</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:01:45" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="00:10:44">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PASTORE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:10:44" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:15:00" />
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="00:20:16" />
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="00:20:19" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:22:41" />
+        </Discussione>
+        <Discussione id="" inIndice="Programma dei lavori dell'Assemblea, integrazioni"
+            videoOffset="00:23:56">
+            <Proprieta>
+                <Titolo>Programma dei lavori dell'Assemblea, integrazioni</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="00:23:56" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="00:24:28">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:24:28" />
+        </Discussione>
+        <Discussione id="" inIndice="Programma dei lavori dell'Assemblea, integrazioni"
+            videoOffset="00:33:50">
+            <Proprieta>
+                <Titolo>Programma dei lavori dell'Assemblea, integrazioni</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:33:50" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="00:33:50">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:33:50" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:34:15" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:34:43" />
+            <Intervento gruppo="" idPolitico="" inIndice="ZANDA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:37:32" />
+        </Discussione>
+        <Discussione id="" inIndice="Programma dei lavori dell'Assemblea, integrazioni"
+            videoOffset="00:38:51">
+            <Proprieta>
+                <Titolo>Programma dei lavori dell'Assemblea, integrazioni</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:38:51" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="00:38:56">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="00:38:56" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:51:16" />
+        </Discussione>
+        <Discussione id="" inIndice="Programma dei lavori dell'Assemblea, integrazioni"
+            videoOffset="00:58:38">
+            <Proprieta>
+                <Titolo>Programma dei lavori dell'Assemblea, integrazioni</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:58:38" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:06:35">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:06:35" />
+        </Discussione>
+        <Discussione id="" inIndice="Non è approvata" videoOffset="01:07:21">
+            <Proprieta>
+                <Titolo>Non è approvata</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:07:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:08:17" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:08:52">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:08:52" />
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="01:09:30" />
+        </Discussione>
+        <Discussione id="" inIndice="Programma dei lavori dell'Assemblea, integrazioni"
+            videoOffset="01:09:53">
+            <Proprieta>
+                <Titolo>Programma dei lavori dell'Assemblea, integrazioni</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:09:53" />
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="01:09:56" />
+        </Discussione>
+        <Discussione id="" inIndice="Non è approvata" videoOffset="01:10:13">
+            <Proprieta>
+                <Titolo>Non è approvata</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:10:13" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:10:55" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:50" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Sulla comparsa di scritte antisemite sui muri del Ghetto di Roma"
+            videoOffset="01:13:06">
+            <Proprieta>
+                <Titolo>Sulla comparsa di scritte antisemite sui muri del Ghetto di Roma</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:13:06" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Discussione e approvazione delle conclusioni della Giunta delle elezioni e delle immunità parlamentari"
+            videoOffset="01:14:38">
+            <Proprieta>
+                <Titolo>Discussione e approvazione delle conclusioni della Giunta delle elezioni e
+                    delle immunità parlamentari</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:14:38" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:15:31" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:16:09" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:16:40">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="QUAGLIARIELLO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="01:16:40" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Discussione e approvazione delle conclusioni della Giunta delle elezioni e delle immunità parlamentari"
+            videoOffset="01:16:45">
+            <Proprieta>
+                <Titolo>Discussione e approvazione delle conclusioni della Giunta delle elezioni e
+                    delle immunità parlamentari</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="DIVINA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:16:45" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:17:06" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:18:06" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:18:31" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:18:50" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:19:50" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:21:21" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(684)IZZO. -Norme sull'istituzione del luogo elettivo di nascita(ore 17,52)"
+            videoOffset="01:21:28">
+            <Proprieta>
+                <Titolo>(684)IZZO. -Norme sull'istituzione del luogo elettivo di nascita(ore 17,52)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:21:28" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:22:09" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:22:29">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:22:29" />
+        </Discussione>
+        <Discussione id="" inIndice="È approvata. " videoOffset="01:22:33">
+            <Proprieta>
+                <Titolo>È approvata. </Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:22:33" />
+            <Intervento gruppo="" idPolitico="" inIndice="CALDEROLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:23:40" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:23:43">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:23:43" />
+            <Intervento gruppo="" idPolitico="" inIndice="CALDEROLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:23:44" />
+        </Discussione>
+        <Discussione id="" inIndice="È approvata. " videoOffset="01:24:08">
+            <Proprieta>
+                <Titolo>È approvata. </Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:24:08" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Discussione e approvazione delle conclusioni della Giunta delle elezioni e delle immunità parlamentari"
+            videoOffset="01:24:52">
+            <Proprieta>
+                <Titolo>Discussione e approvazione delle conclusioni della Giunta delle elezioni e
+                    delle immunità parlamentari</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="CALDEROLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:24:52" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:24:59">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="COLOMBO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:24:59" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Discussione e approvazione delle conclusioni della Giunta delle elezioni e delle immunità parlamentari"
+            videoOffset="01:26:55">
+            <Proprieta>
+                <Titolo>Discussione e approvazione delle conclusioni della Giunta delle elezioni e
+                    delle immunità parlamentari</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:26:55" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:27:00" />
+        </Discussione>
+        <Discussione id="" inIndice="Non è approvata" videoOffset="01:27:18">
+            <Proprieta>
+                <Titolo>Non è approvata</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:27:18" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:27:29">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="STRACQUADANIO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="01:27:29" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:29:38" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:29:45">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:29:45" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:30:03">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="DIVINA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:30:03" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:31:40">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="DIVINA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:31:40" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:31:54" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:32:01">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="NANIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:32:01" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Discussione e approvazione delle conclusioni della Giunta delle elezioni e delle immunità parlamentari"
+            videoOffset="01:32:55">
+            <Proprieta>
+                <Titolo>Discussione e approvazione delle conclusioni della Giunta delle elezioni e
+                    delle immunità parlamentari</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="STRACQUADANIO" organo="Senato"
+                progrPers="" qualifica="" videoOffset="01:32:55" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:32:57">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="NANIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:32:57" />
+            <Intervento gruppo="" idPolitico="" inIndice="NANIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:34:01" />
+            <Intervento gruppo="" idPolitico="" inIndice="CALDEROLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:36:15" />
+        </Discussione>
+        <Discussione id="" inIndice="Ripartizione dei tempi per la discussione del DPEF"
+            videoOffset="01:36:31">
+            <Proprieta>
+                <Titolo>Ripartizione dei tempi per la discussione del DPEF</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:36:31" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:36:35" />
+        </Discussione>
+        <Discussione id="" inIndice="Non è approvata" videoOffset="01:39:28">
+            <Proprieta>
+                <Titolo>Non è approvata</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:39:28" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:40:14">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="BIONDI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:40:14" />
+        </Discussione>
+        <Discussione id="" inIndice="Non è approvata" videoOffset="01:42:51">
+            <Proprieta>
+                <Titolo>Non è approvata</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:42:51" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato del mondo di calcio"
+            videoOffset="01:43:06">
+            <Proprieta>
+                <Titolo>Su alcune dichiarazioni del senatore Calderoli sulla finale del Campionato
+                    del mondo di calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="ZAVOLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:43:06" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:46:01" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:46:33" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:47:15" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:47:22" />
+        </Discussione>
+        <Discussione id="" inIndice="Mozioni, interpellanze e interrogazioni, annunzio"
+            videoOffset="01:47:28">
+            <Proprieta>
+                <Titolo>Mozioni, interpellanze e interrogazioni, annunzio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:47:28" />
+        </Discussione>
+        <Discussione id="" inIndice="Ordine del giorno per le sedute di mercoledì 12 luglio 2006"
+            videoOffset="01:47:40">
+            <Proprieta>
+                <Titolo>Ordine del giorno per le sedute di mercoledì 12 luglio 2006</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:47:40" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:48:34" />
+        </Discussione>
+    </WEBTV>
+</BGTDOC>

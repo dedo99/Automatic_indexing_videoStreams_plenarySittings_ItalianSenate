@@ -1,0 +1,82 @@
+<BGTDOC>
+    <WEBTV versione="1.1">
+        <Proprieta>
+            <Protocollo idTesto="" legislatura="15" />
+            <Seduta data="13/07/2006" numero="18" />
+        </Proprieta>
+        <InizioSeduta id="" videoOffset="00:00:00" />
+        <Discussione id="" inIndice="Presidenza del vice presidente CAPRILI" videoOffset="00:06:58">
+            <Proprieta>
+                <Titolo>Presidenza del vice presidente CAPRILI</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:06:58" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:07:15" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:10:02" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:10:53" />
+        </Discussione>
+        <Discussione id="" inIndice="Svolgimento di interpellanze e di interrogazioni(10,05)"
+            videoOffset="00:11:04">
+            <Proprieta>
+                <Titolo>Svolgimento di interpellanze e di interrogazioni(10,05)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="MARITATI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:11:04" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:14:28" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:14:35" />
+            <Intervento gruppo="" idPolitico="" inIndice="BRISCA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:17:31" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:17:47" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:19:02" />
+            <Intervento gruppo="" idPolitico="" inIndice="VERZASCHI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:19:22" />
+            <Intervento gruppo="" idPolitico="" inIndice="BRISCA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:20:55" />
+            <Intervento gruppo="" idPolitico="" inIndice="VERZASCHI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:21:16" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:22:44" />
+            <Intervento gruppo="" idPolitico="" inIndice="BRISCA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:22:50" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:25:54" />
+            <Intervento gruppo="" idPolitico="" inIndice="BULGARELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:26:01" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:30:35" />
+            <Intervento gruppo="" idPolitico="" inIndice="MARTONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:31:05" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:34:49" />
+            <Intervento gruppo="" idPolitico="" inIndice="CRAXI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:34:55" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:39:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="MARTONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:39:25" />
+        </Discussione>
+        <Discussione id="" inIndice="Mozioni, interpellanze e interrogazioni, annunzio"
+            videoOffset="00:41:56">
+            <Proprieta>
+                <Titolo>Mozioni, interpellanze e interrogazioni, annunzio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:41:56" />
+        </Discussione>
+        <Discussione id="" inIndice="Ordine del giorno per la seduta di martedì 18 luglio 2006"
+            videoOffset="00:42:08">
+            <Proprieta>
+                <Titolo>Ordine del giorno per la seduta di martedì 18 luglio 2006</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:42:08" />
+        </Discussione>
+    </WEBTV>
+</BGTDOC>

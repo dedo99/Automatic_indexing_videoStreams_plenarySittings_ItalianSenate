@@ -1,0 +1,301 @@
+<BGTDOC>
+    <WEBTV versione="1.1">
+        <Proprieta>
+            <Protocollo idTesto="" legislatura="15" />
+            <Seduta data="10/07/2006" numero="14" />
+        </Proprieta>
+        <InizioSeduta id="" videoOffset="00:00:00" />
+        <Discussione id=""
+            inIndice="Sulla vittoria della squadra nazionale italiana nel campionato mondiale di calcio"
+            videoOffset="00:00:12">
+            <Proprieta>
+                <Titolo>Sulla vittoria della squadra nazionale italiana nel campionato mondiale di
+                    calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:00:12" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:02:28" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:02:33" />
+        </Discussione>
+        <Discussione id="" inIndice="Preannunzio di votazioni mediante procedimento elettronico"
+            videoOffset="00:04:14">
+            <Proprieta>
+                <Titolo>Preannunzio di votazioni mediante procedimento elettronico</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:04:14" />
+        </Discussione>
+        <Discussione id="" inIndice="Sul grave problema degli incidenti sul lavoro"
+            videoOffset="00:04:57">
+            <Proprieta>
+                <Titolo>Sul grave problema degli incidenti sul lavoro</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="ALFONZI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:04:57" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:05:57" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:06:53" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni demaniali marittimi(ore 18,10)"
+            videoOffset="00:07:23">
+            <Proprieta>
+                <Titolo>(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno
+                    2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni
+                    demaniali marittimi(ore 18,10)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:07:23" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:08:40" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Sulla vittoria della squadra nazionale italiana nel campionato mondiale di calcio"
+            videoOffset="00:15:45">
+            <Proprieta>
+                <Titolo>Sulla vittoria della squadra nazionale italiana nel campionato mondiale di
+                    calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:15:45" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni demaniali marittimi(ore 18,10)"
+            videoOffset="00:16:04">
+            <Proprieta>
+                <Titolo>(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno
+                    2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni
+                    demaniali marittimi(ore 18,10)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:16:04" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:16:13" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:16:18" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:18:43" />
+            <Intervento gruppo="" idPolitico="" inIndice="BARBATO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:19:16" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:25:08" />
+            <Intervento gruppo="" idPolitico="" inIndice="BARBATO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:25:10" />
+        </Discussione>
+        <Discussione id="" inIndice="Sul grave problema degli incidenti sul lavoro"
+            videoOffset="00:25:18">
+            <Proprieta>
+                <Titolo>Sul grave problema degli incidenti sul lavoro</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:25:18" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni demaniali marittimi(ore 18,10)"
+            videoOffset="00:25:30">
+            <Proprieta>
+                <Titolo>(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno
+                    2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni
+                    demaniali marittimi(ore 18,10)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="ROSSI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:25:30" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:26:23" />
+            <Intervento gruppo="" idPolitico="" inIndice="STIFFONI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:26:34" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:31:34" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:31:48" />
+            <Intervento gruppo="" idPolitico="" inIndice="BONADONNA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:31:57" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:41:55" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:42:13" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:45:56" />
+            <Intervento gruppo="" idPolitico="" inIndice="SPEAKER_06" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:11" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Sulla vittoria della squadra nazionale italiana nel campionato mondiale di calcio"
+            videoOffset="00:46:12">
+            <Proprieta>
+                <Titolo>Sulla vittoria della squadra nazionale italiana nel campionato mondiale di
+                    calcio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:12" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:22" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:47" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:50" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:50" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:57" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni demaniali marittimi(ore 18,10)"
+            videoOffset="00:47:04">
+            <Proprieta>
+                <Titolo>(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno
+                    2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni
+                    demaniali marittimi(ore 18,10)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:47:04" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:48:39" />
+            <Intervento gruppo="" idPolitico="" inIndice="MALAN" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:48:46" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:49:46" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:49:52" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:50:01" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:52:42" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:53:26" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:53:37" />
+        </Discussione>
+        <Discussione id="" inIndice="Sui lavori del Senato" videoOffset="00:57:30">
+            <Proprieta>
+                <Titolo>Sui lavori del Senato</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:57:30" />
+            <Intervento gruppo="" idPolitico="" inIndice="MALAN" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:57:42" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Ripresa della deliberazione sul parere espresso dalla 1ª Commissione permanente in ordine al disegno di legge n. 700"
+            videoOffset="00:57:50">
+            <Proprieta>
+                <Titolo>Ripresa della deliberazione sul parere espresso dalla 1ª Commissione
+                    permanente in ordine al disegno di legge n. 700</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:57:50" />
+        </Discussione>
+        <Discussione id="" inIndice="Sui lavori del Senato" videoOffset="00:59:20">
+            <Proprieta>
+                <Titolo>Sui lavori del Senato</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="ROSSI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:59:20" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:59:20" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:59:23" />
+            <Intervento gruppo="" idPolitico="" inIndice="SPEAKER_06" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:59:24" />
+            <Intervento gruppo="" idPolitico="" inIndice="ROSSI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:59:27" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:59:33" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:00:13" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:04:22" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:05:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:05:44" />
+            <Intervento gruppo="" idPolitico="" inIndice="SPEAKER_06" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:07:14" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:07:18" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:09:35" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:10:02" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:10:36" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:10:48" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:10:58" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:03" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:06" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:13" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:14" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni demaniali marittimi(ore 18,10)"
+            videoOffset="01:11:17">
+            <Proprieta>
+                <Titolo>(700)Conversione in legge, con modificazioni, del decreto-legge 7 giugno
+                    2006, n. 206, recante disposizioni urgenti in materia di IRAP e di canoni
+                    demaniali marittimi(ore 18,10)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:17" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:43" />
+        </Discussione>
+        <Discussione id="" inIndice="Sui lavori del Senato" videoOffset="01:11:48">
+            <Proprieta>
+                <Titolo>Sui lavori del Senato</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:11:48" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:13:57" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:14:04" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:14:11" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:14:15" />
+            <Intervento gruppo="" idPolitico="" inIndice="BOCCIA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:15:08" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:17:25" />
+            <Intervento gruppo="" idPolitico="" inIndice="MALAN" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:17:35" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:17:36" />
+            <Intervento gruppo="" idPolitico="" inIndice="MALAN" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:19:30" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:23:28" />
+            <Intervento gruppo="" idPolitico="" inIndice="ZANDA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:23:37" />
+            <Intervento gruppo="" idPolitico="" inIndice="SPEAKER_06" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:27:57" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:27:59" />
+            <Intervento gruppo="" idPolitico="" inIndice="VILLONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:28:06" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:28:07" />
+            <Intervento gruppo="" idPolitico="" inIndice="SPEAKER_06" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:28:09" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:28:13" />
+        </Discussione>
+        <Discussione id="" inIndice="Ordine del giorno per la seduta di martedì 11 luglio 2006"
+            videoOffset="01:32:15">
+            <Proprieta>
+                <Titolo>Ordine del giorno per la seduta di martedì 11 luglio 2006</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:32:15" />
+        </Discussione>
+    </WEBTV>
+</BGTDOC>

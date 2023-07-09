@@ -1,0 +1,180 @@
+<BGTDOC>
+    <WEBTV versione="1.1">
+        <Proprieta>
+            <Protocollo idTesto="" legislatura="15" />
+            <Seduta data="19/09/2006" numero="33" />
+        </Proprieta>
+        <InizioSeduta id="" videoOffset="00:00:00" />
+        <Discussione id="" inIndice="Presidenza del presidente MARINI" videoOffset="00:00:01">
+            <Proprieta>
+                <Titolo>Presidenza del presidente MARINI</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:00:01" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:00:49" />
+        </Discussione>
+        <Discussione id="" inIndice="Preannunzio di votazioni mediante procedimento elettronico"
+            videoOffset="00:01:03">
+            <Proprieta>
+                <Titolo>Preannunzio di votazioni mediante procedimento elettronico</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:01:03" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Sulla scomparsa del senatore Ignazio Manunza e di Oriana Fallaci. Sull'uccisione a Mogadiscio di suor Leonella Sgorbati"
+            videoOffset="00:01:29">
+            <Proprieta>
+                <Titolo>Sulla scomparsa del senatore Ignazio Manunza e di Oriana Fallaci.
+                    Sull'uccisione a Mogadiscio di suor Leonella Sgorbati</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:01:29" />
+            <Intervento gruppo="" idPolitico="" inIndice="SCHIFANI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:04:14" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="del senatore Schifani, reiezione della proposta del senatore Castelli"
+            videoOffset="00:05:55">
+            <Proprieta>
+                <Titolo>del senatore Schifani, reiezione della proposta del senatore Castelli</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="SCHIFANI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:05:55" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="Sulla scomparsa del senatore Ignazio Manunza e di Oriana Fallaci. Sull'uccisione a Mogadiscio di suor Leonella Sgorbati"
+            videoOffset="00:05:56">
+            <Proprieta>
+                <Titolo>Sulla scomparsa del senatore Ignazio Manunza e di Oriana Fallaci.
+                    Sull'uccisione a Mogadiscio di suor Leonella Sgorbati</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="SCHIFANI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:05:56" />
+            <Intervento gruppo="" idPolitico="" inIndice="MANZIONE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:06:46" />
+            <Intervento gruppo="" idPolitico="" inIndice="POLLEDRI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:11:53" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:12:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:12:52" />
+            <Intervento gruppo="" idPolitico="" inIndice="SODANO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:14:05" />
+            <Intervento gruppo="" idPolitico="" inIndice="MASSIDDA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:15:38" />
+            <Intervento gruppo="" idPolitico="" inIndice="MASTELLA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:17:28" />
+        </Discussione>
+        <Discussione id="" inIndice="Sui lavori del Senato" videoOffset="00:19:23">
+            <Proprieta>
+                <Titolo>Sui lavori del Senato</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:19:23" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="del senatore Schifani, reiezione della proposta del senatore Castelli"
+            videoOffset="00:24:12">
+            <Proprieta>
+                <Titolo>del senatore Schifani, reiezione della proposta del senatore Castelli</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="SCHIFANI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:24:12" />
+            <Intervento gruppo="" idPolitico="" inIndice="SCHIFANI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:31:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:33:15" />
+            <Intervento gruppo="" idPolitico="" inIndice="RUSSO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:37:25" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:42:26" />
+            <Intervento gruppo="" idPolitico="" inIndice="ZANDA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:50:05" />
+            <Intervento gruppo="" idPolitico="" inIndice="DONOFRIO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:57:18" />
+            <Intervento gruppo="" idPolitico="" inIndice="ROTONDI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:06:01" />
+            <Intervento gruppo="" idPolitico="" inIndice="PALERMI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:13:46" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:17:27" />
+        </Discussione>
+        <Discussione id="" inIndice="Il Senato approva." videoOffset="01:22:44">
+            <Proprieta>
+                <Titolo>Il Senato approva.</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:22:44" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:24:45" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:25:44" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:25:56" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:26:52" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="del senatore Schifani, reiezione della proposta del senatore Castelli"
+            videoOffset="01:28:41">
+            <Proprieta>
+                <Titolo>del senatore Schifani, reiezione della proposta del senatore Castelli</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:28:41" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(635)Sospensione dell'efficacia di disposizioni in tema di ordinamento giudiziario(ore 18,42)"
+            videoOffset="01:29:22">
+            <Proprieta>
+                <Titolo>(635)Sospensione dell'efficacia di disposizioni in tema di ordinamento
+                    giudiziario(ore 18,42)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="MASTELLA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:29:22" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:30:16" />
+            <Intervento gruppo="" idPolitico="" inIndice="MASTELLA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:30:34" />
+        </Discussione>
+        <Discussione id="" inIndice="Il Senato approva." videoOffset="02:01:36">
+            <Proprieta>
+                <Titolo>Il Senato approva.</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:01:36" />
+        </Discussione>
+        <Discussione id=""
+            inIndice="(635)Sospensione dell'efficacia di disposizioni in tema di ordinamento giudiziario(ore 18,42)"
+            videoOffset="02:01:41">
+            <Proprieta>
+                <Titolo>(635)Sospensione dell'efficacia di disposizioni in tema di ordinamento
+                    giudiziario(ore 18,42)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:01:41" />
+            <Intervento gruppo="" idPolitico="" inIndice="DONOFRIO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:12:49" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:18:36" />
+            <Intervento gruppo="" idPolitico="" inIndice="BRUTTI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:19:02" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:25:53" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASTELLI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:34:06" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:34:20" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:35:59" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:36:36" />
+            <Intervento gruppo="" idPolitico="" inIndice="*CASSON" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:37:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="02:47:23" />
+        </Discussione>
+    </WEBTV>
+</BGTDOC>

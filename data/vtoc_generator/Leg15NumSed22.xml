@@ -1,0 +1,72 @@
+<BGTDOC>
+    <WEBTV versione="1.1">
+        <Proprieta>
+            <Protocollo idTesto="" legislatura="15" />
+            <Seduta data="20/07/2006" numero="22" />
+        </Proprieta>
+        <InizioSeduta id="" videoOffset="00:00:00" />
+        <Discussione id="" inIndice="Presidenza del vice presidente CAPRILI" videoOffset="00:02:43">
+            <Proprieta>
+                <Titolo>Presidenza del vice presidente CAPRILI</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:02:43" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:07:33" />
+        </Discussione>
+        <Discussione id="" inIndice="Svolgimento di interpellanze e di interrogazioni(ore 10,10)"
+            videoOffset="00:08:21">
+            <Proprieta>
+                <Titolo>Svolgimento di interpellanze e di interrogazioni(ore 10,10)</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="II" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:08:21" />
+            <Intervento gruppo="" idPolitico="" inIndice="BUTTI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:14:41" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:19:19" />
+            <Intervento gruppo="" idPolitico="" inIndice="TONONI" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:20:05" />
+            <Intervento gruppo="" idPolitico="" inIndice="TECCE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:25:37" />  
+            <Intervento gruppo="" idPolitico="" inIndice="DANDREA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:29:30" />
+            <Intervento gruppo="" idPolitico="" inIndice="DANDREA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:36:04" />
+            <Intervento gruppo="" idPolitico="" inIndice="DE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:39:20" />
+            <Intervento gruppo="" idPolitico="" inIndice="BONADONNA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:44:27" />
+            <Intervento gruppo="" idPolitico="" inIndice="BONADONNA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:46:39" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:48:59" />
+            <Intervento gruppo="" idPolitico="" inIndice="DANDREA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:49:41" />
+            <Intervento gruppo="" idPolitico="" inIndice="ALLOCCA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="00:55:31" />
+            <Intervento gruppo="" idPolitico="" inIndice="ALLOCCA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:00:46" />
+            <Intervento gruppo="" idPolitico="" inIndice="BARBATO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:01:17" />
+            <Intervento gruppo="" idPolitico="" inIndice="DE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:06:19" />
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:18:03" />
+            <Intervento gruppo="" idPolitico="" inIndice="BARBATO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:18:07" />
+            <Intervento gruppo="" idPolitico="" inIndice="CASULA" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:22:09" />
+            <Intervento gruppo="" idPolitico="" inIndice="GHIGO" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:25:08" />
+        </Discussione>
+        <Discussione id="" inIndice="Interpellanze e interrogazioni, annunzio"
+            videoOffset="01:27:17">
+            <Proprieta>
+                <Titolo>Interpellanze e interrogazioni, annunzio</Titolo>
+            </Proprieta>
+            <Intervento gruppo="" idPolitico="" inIndice="PRESIDENTE" organo="Senato" progrPers=""
+                qualifica="" videoOffset="01:27:17" />
+        </Discussione>
+    </WEBTV>
+</BGTDOC>
