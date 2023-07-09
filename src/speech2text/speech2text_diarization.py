@@ -7,8 +7,6 @@ import sys
 
 pathname = os.path.dirname(sys.argv[0])
 
-# if os.path.exists("./../../../../../data/senato_project/data/speech2text/" + filename + ".txt"):
-#     continue
 filename = "Leg15NumSed18"
 
 wav_file = pathname + "/../../data/track_audio_wav/" + filename + ".wav"
